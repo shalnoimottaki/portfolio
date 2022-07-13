@@ -1,0 +1,2 @@
+# portfolio
+Like a seasoned financial analyst always ready to answer your call, the My Portfolio tool runs the numbers for multiple charts simultaneously and generates a single comprehensive report for any asset allocation you like.  Use this to evaluate your current portfolio, test the effects of incremental changes, and identify a customized investing plan suitable for your personal financial and emotional needs.
