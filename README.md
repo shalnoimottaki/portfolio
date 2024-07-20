@@ -1,7 +1,7 @@
 # Responsive Portfolio Shalnoi Mottaki
 
 
-# Features
+## Features
 
 ⚡️ Modern UI Design + Reveal Animations 
 
@@ -21,7 +21,7 @@
 
 
 To view the demo: [click here](https://shalnoimottaki.github.io/portfolio/)
-# Why do you need a portfolio? ☝️
+## Why do you need a portfolio? ☝️
 
    * Professional way to showcase your work
      
