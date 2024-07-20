@@ -7,7 +7,7 @@
 
 ⚡️ One Page Layout
 
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS
+⚡️ Styled with Bootstrap v5 
 
 ⚡️ Fully Responsive
 
@@ -16,6 +16,8 @@
 ⚡️ Optimized with Parcel
 
 ⚡️ Well organized documentation
+
+⚡️ Back-end using PHP
 
 
 To view the demo: [click here](https://shalnoimottaki.github.io/portfolio/)
