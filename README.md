@@ -23,11 +23,11 @@
 To view the demo: [click here](https://shalnoimottaki.github.io/portfolio/)
 ## Why do you need a portfolio? ☝️
 
-   * Professional way to showcase your work
+   * An expertly curated portfolio showcasing my work.
      
-   * Increases your visibility and online presence
+   * Enhances my online visibility and presence.
      
-   * Shows you’re more than just a resume
+   * Demonstrates that I'm more than just a resume.
      
 
 ![screenshot](screenshoot.png)
