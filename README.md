@@ -7,7 +7,7 @@
 
 ⚡️ One Page Layout
 
-⚡️ Styled with Bootstrap v5 
+⚡️ Styled with Bootstrap v4.6.0
 
 ⚡️ Fully Responsive
 
